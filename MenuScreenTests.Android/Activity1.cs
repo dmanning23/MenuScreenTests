@@ -3,7 +3,7 @@ using Android.Content.PM;
 using Android.OS;
 using Android.Views;
 
-namespace MenuBuddySample.Android
+namespace MenuScreenTests.Android
 {
 	[Activity(Label = "MenuBuddySample.Android"
 		, MainLauncher = true

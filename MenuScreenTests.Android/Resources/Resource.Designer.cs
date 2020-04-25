@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("MenuBuddySample.Android.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("MenuScreenTests.Android.Resource", IsApplication=true)]
 
-namespace MenuBuddySample.Android
+namespace MenuScreenTests.Android
 {
 	
 	
@@ -26,34 +26,34 @@ namespace MenuBuddySample.Android
 		
 		public static void UpdateIdValues()
 		{
-			global::FilenameBuddy.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::FilenameBuddy.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::FontBuddyLib.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::FontBuddyLib.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::GameTimer.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::GameTimer.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::HadoukInput.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::HadoukInput.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::InputHelper.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::InputHelper.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::MatrixExtensions.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::MatrixExtensions.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::MouseBuddy.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::MouseBuddy.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::PrimitiveBuddy.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::PrimitiveBuddy.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::RandomExtensions.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::RandomExtensions.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::ResolutionBuddy.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::ResolutionBuddy.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::StateMachineBuddy.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::StateMachineBuddy.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::TouchScreenBuddy.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::TouchScreenBuddy.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::Vector2Extensions.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::Vector2Extensions.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
-			global::XmlBuddy.Android.Resource.String.ApplicationName = global::MenuBuddySample.Android.Resource.String.ApplicationName;
-			global::XmlBuddy.Android.Resource.String.Hello = global::MenuBuddySample.Android.Resource.String.Hello;
+			global::FilenameBuddy.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::FilenameBuddy.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::FontBuddyLib.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::FontBuddyLib.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::GameTimer.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::GameTimer.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::HadoukInput.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::HadoukInput.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::InputHelper.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::InputHelper.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::MatrixExtensions.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::MatrixExtensions.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::MouseBuddy.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::MouseBuddy.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::PrimitiveBuddy.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::PrimitiveBuddy.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::RandomExtensions.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::RandomExtensions.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::ResolutionBuddy.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::ResolutionBuddy.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::StateMachineBuddy.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::StateMachineBuddy.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::TouchScreenBuddy.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::TouchScreenBuddy.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::Vector2Extensions.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::Vector2Extensions.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
+			global::XmlBuddy.Android.Resource.String.ApplicationName = global::MenuScreenTests.Android.Resource.String.ApplicationName;
+			global::XmlBuddy.Android.Resource.String.Hello = global::MenuScreenTests.Android.Resource.String.Hello;
 		}
 		
 		public partial class Attribute

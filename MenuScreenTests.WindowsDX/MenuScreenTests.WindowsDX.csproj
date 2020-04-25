@@ -86,6 +86,9 @@
     <Reference Include="MatrixExtensions.WindowsDX, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MatrixExtensions.2.0.0\lib\net451\MatrixExtensions.WindowsDX.dll</HintPath>
     </Reference>
+    <Reference Include="MenuBuddy.WindowsDX, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MenuBuddy.2.0.64\lib\net451\MenuBuddy.WindowsDX.dll</HintPath>
+    </Reference>
     <Reference Include="MonoGame.Framework, Version=3.7.1.189, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MonoGame.Framework.WindowsDX.3.7.1.189\lib\net45\MonoGame.Framework.dll</HintPath>
     </Reference>
@@ -153,12 +156,6 @@
     <None Include="app.config" />
     <None Include="app.manifest" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\MenuBuddy\MenuBuddy\MenuBuddy.WindowsDX\MenuBuddy.WindowsDX.csproj">
-      <Project>{a1336584-cad7-4b4a-94e1-93788bdc313c}</Project>
-      <Name>MenuBuddy.WindowsDX</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="..\MenuScreenTests.SharedProject\MenuScreenTests.SharedProject.projitems" Label="Shared" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -2,7 +2,7 @@
 using Foundation;
 using UIKit;
 
-namespace MenuBuddySample.iOS
+namespace MenuScreenTests.iOS
 {
 	[Register("AppDelegate")]
 	class Program : UIApplicationDelegate

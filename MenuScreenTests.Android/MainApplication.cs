@@ -4,7 +4,7 @@ using Android.Runtime;
 using Square.LeakCanary;
 using System;
 
-namespace MenuBuddySample.Android
+namespace MenuScreenTests.Android
 {
 #if DEBUG
 	[Application(Debuggable = true)]
